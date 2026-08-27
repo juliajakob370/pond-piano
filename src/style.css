@@ -1,5 +1,5 @@
 :root {
-  --bg: #77DFCE;
+  --bg: #38A3A5;
 }
 
 .piano {
@@ -25,7 +25,7 @@ li{
 }
 
 button{
-  border: 4px #38a3a5 solid;
+  border: 4px #2C7F80 solid;
   cursor: pointer;
 }
 
