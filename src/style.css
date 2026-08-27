@@ -24,6 +24,11 @@ li{
   color: white;
 }
 
+button{
+  border: 4px #38a3a5 solid;
+  cursor: pointer;
+}
+
 @layer presentation {
   body{
     background-color: var(--bg);
