@@ -1,6 +1,7 @@
 import './style.css'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
+
     <div class="piano">
         <li><button class="lily">C</button></li>
         <li><button class="log">C#</button></li>
