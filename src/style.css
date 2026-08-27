@@ -9,18 +9,17 @@
 }
 
 li{
-  padding: 10px;
   list-style: none;
 }
 
 .lily {
-  padding: 10px;
-  padding-top:200px;
+  padding: 30px;
+  padding-top:400px;
 }
 
 .log {
-  padding: 10px;
-  padding-top: 100px;
+  padding: 30px;
+  padding-top: 250px;
   background: black;
   color: white;
 }
