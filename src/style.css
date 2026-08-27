@@ -1,4 +1,35 @@
 :root {
   --bg: #77DFCE;
-  background: var(--bg);
+}
+
+.piano {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+li{
+  padding: 10px;
+  list-style: none;
+}
+
+.lily {
+  padding: 10px;
+  padding-top:200px;
+}
+
+.log {
+  padding: 10px;
+  padding-top: 100px;
+  background: black;
+  color: white;
+}
+
+@layer presentation {
+  body{
+    background-color: var(--bg);
+    display: grid;
+    height: 100vh;
+    place-items: center;
+  }
 }
